@@ -1,5 +1,4 @@
 # trio
-#pragma once
 
  trio (cool hack name) credits										
 
