@@ -203,9 +203,6 @@ void __fastcall Hooks::DME(void* ecx, void* edx, IMatRenderContext* context, con
 	auto entity = g_pEntityList->GetClientEntity(render_info.entity_index);
 	auto local_player = g_pEntityList->GetClientEntity(g_pEngine->GetLocalPlayer());
 
-	if (entity->GetClientClass()->ClassID != CCSPlayer)
-		oDME(ecx, context, state, render_info, matrix);
-
 	if (entity != local_player && !g_Settings.visuals.bBlend)
 		oDME(ecx, context, state, render_info, matrix);
 
