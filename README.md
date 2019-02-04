@@ -7,13 +7,13 @@
  Credits
 
  ensidiya
- wando    - created antario
+ wando    - created antario & color picker
  shiro    - redid entire esp & helped with many things in this hack
  hopdog   - cause some stuff shiro gave me was from shiro and hopdogs hack
  bolbi    - helped with multibox & fixing stuff
  floody   - (i pasted his backtrack, hitmarker & texture rendering thing)
  quantiom - helped with hooks & stuff
- czapek   - gave me copy & paste for color pickers (ctrl c + ctrl v)
+ czapek   - gave me copy & paste hex function for color picker (ctrl c + ctrl v)
  gabe     - i stole some of his stuff
  cYb2     - i stole some of his hooks
  normie   - helped with stuff
