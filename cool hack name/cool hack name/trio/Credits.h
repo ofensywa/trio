@@ -20,8 +20,7 @@
 //
 /* ======================================================================= */
 //
-// im releasing this source because alot of stuff is aids and pasted, also
-// i gave it to normie which is a no-go
+// im releasing this source because alot of stuff is aids and pasted.
 //
 /* ======================================================================= */
 //
